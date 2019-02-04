@@ -1,2 +1,2 @@
 # demoproject
-Nokia practice projercts
+Nokia practice projects
