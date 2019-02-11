@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 
-data_set = pd.read_csv('C:/Users/jhunjhun/Downloads/update.csv')
+data_set = pd.read_csv('C:/Users/jhunjhun/Downloads/update.csv',index_col=0)
 demo_data = data_set.groupby('Region').min()
 y = data_set['Region'].unique()
 x = demo_data['Units Sold']
