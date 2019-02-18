@@ -11,7 +11,8 @@ Intercept: 146047.9770499831
 '''
 
 
-''' Output Graph- images/linear_regression_1.png '''
+''' Output Graph- images/linear_regression_1.png 
+                  images/linear_regression_2.png'''
 
 import pandas as pd
 import matplotlib.pyplot as plt
