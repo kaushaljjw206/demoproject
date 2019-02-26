@@ -1,5 +1,5 @@
 ''' Clustering example of iris dataset
-
+Commented codes display all possible graphs
 '''
 
 
